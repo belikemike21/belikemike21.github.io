@@ -1,4 +1,4 @@
 # README
 
 This is my personal blog  
-link: [belikemike21.github.io](https://belikemike21.github.io/)
+link: [jackysatpal.github.io](https://jackysatpal.github.io/)
