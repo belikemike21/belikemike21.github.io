@@ -21,9 +21,9 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jacky Satpal"
 description              : "Personal blog"
-url                      : "belikemike21.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "jackysatpal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "belikemike21/belikemike21.github.io"
+repository               : "jackysatpal/jackysatpal.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -83,7 +83,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://www.linkedin.com/in/sjacky/"
-    - "https://github.com/belikemike21/"
+    - "https://github.com/jackysatpal/"
 
 # Analytics
 analytics:
@@ -106,7 +106,7 @@ author:
       url: "https://www.linkedin.com/in/sjacky/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/belikemike21/"
+      url: "https://github.com/jackysatpal/"
 
 # Site Footer
 footer:
@@ -119,7 +119,7 @@ footer:
       url: "https://www.linkedin.com/in/sjacky/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/belikemike21/"
+      url: "https://github.com/jackysatpal/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
